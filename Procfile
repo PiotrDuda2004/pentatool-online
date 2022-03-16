@@ -1,1 +1,1 @@
-web: pentatool-online gettingstarted.wsgi
+web: gunicorn  checkOnlinePlayers.wsgi
