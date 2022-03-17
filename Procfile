@@ -1,1 +1,1 @@
-web: python checkOnlinePlayers.py
+web: gunicorn gettingstarted.wsgi
